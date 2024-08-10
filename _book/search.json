@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "test-quarto-live-2",
     "section": "",
-    "text": "fit = lm(mpg ~ am, data = mtcars)\nsummary(fit)\nplot(fit)\n\n\nPreface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "text": "fit = lm(mpg ~ am, data = mtcars)\nsummary(fit)\nplot(fit)",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>A Quarto Live Document</span>"
     ]
